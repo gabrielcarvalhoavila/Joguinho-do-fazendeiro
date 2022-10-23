@@ -1,0 +1,236 @@
+# depslib dependency file v1.0
+1661101804 source:c:\users\walte\onedrive\Área de trabalho\trabfinal\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1659740350 c:\raylib\w64devkit\i686-w64-mingw32\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1659997596 c:\raylib\w64devkit\i686-w64-mingw32\include\stdarg.h
+	<_mingw_stdarg.h>
+
+1659997580 c:\raylib\w64devkit\i686-w64-mingw32\include\_mingw_stdarg.h
+	<vadefs.h>
+
+1659997574 c:\raylib\w64devkit\i686-w64-mingw32\include\vadefs.h
+	<_mingw.h>
+
+1659997576 c:\raylib\w64devkit\i686-w64-mingw32\include\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_ddk.h"
+
+1659997592 c:\raylib\w64devkit\i686-w64-mingw32\include\_mingw_mac.h
+
+1659997594 c:\raylib\w64devkit\i686-w64-mingw32\include\_mingw_secapi.h
+
+1659997588 c:\raylib\w64devkit\i686-w64-mingw32\include\_cygwin.h
+	<stddef.h>
+
+1659997582 c:\raylib\w64devkit\i686-w64-mingw32\include\stddef.h
+	<crtdefs.h>
+
+1659997588 c:\raylib\w64devkit\i686-w64-mingw32\include\crtdefs.h
+	<corecrt.h>
+
+1659997592 c:\raylib\w64devkit\i686-w64-mingw32\include\corecrt.h
+	<_mingw.h>
+	<winapifamily.h>
+
+1659997576 c:\raylib\w64devkit\i686-w64-mingw32\include\winapifamily.h
+
+1659997600 c:\raylib\w64devkit\i686-w64-mingw32\include\sdks\_mingw_ddk.h
+
+1658236108 c:\dev-libs\raylib_x86-windows\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1661207718 source:c:\users\walte\documents\trabfinal\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1661660436 source:d:\gabriel\desktop\trabfinal\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1661714601 source:d:\gabriel\desktop\trabfinalatualizado 28.08\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1661718767 source:c:\users\walte\desktop\trabfinalatualizado 28.08\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1661972004 source:c:\users\walte\desktop\trabfinal 28.08-v2\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1662222538 source:c:\users\walte\desktop\trabfinal 31-08\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1662256988 source:c:\users\walte\desktop\trabfinal 03-09\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1662304266 source:c:\users\walte\desktop\trabfinal 03-09 v2\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1662326874 source:d:\gabriel\desktop\trabfinal 04-09 _versão mais recente_\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1662396993 source:c:\users\walte\desktop\trabfinal 04-09 _com_sprite_milipede\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1662400636 source:d:\gabriel\desktop\trabfinal 05-09 novo_início\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1662928933 source:c:\users\walte\desktop\trabfinal 05-09 novo_início\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1663197333 source:c:\users\walte\desktop\trabfinal 11-09 menu_carregar\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1663290552 source:c:\users\walte\documents\atividades ufrgs\semestre1\algoritmos\milipede\trabfinal 11-09 menu_carregar\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664423243 source:d:\gabriel\desktop\trabfinal 21-09 novas_colisões\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664580006 source:d:\gabriel\desktop\trabfinal 29-09 com arquivos binarios\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664582576 source:d:\gabriel\desktop\trabfinal atualizado 30-09\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664732036 source:c:\users\walte\desktop\trabfinal atualizado 30-09-20221001t144242z-001\trabfinal atualizado 30-09\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664824159 source:c:\users\walte\desktop\trabfinal 02-10 dano_fazendeiro\trabfinal atualizado 30-09\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664919540 source:c:\users\walte\desktop\trabfinal 03-10 correções\trabfinal atualizado 30-09\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664925625 source:c:\users\walte\desktop\trabfinal atualizado 30-09\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1664911422 source:d:\gabriel\desktop\trab pronto\main.c
+	<raylib.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
