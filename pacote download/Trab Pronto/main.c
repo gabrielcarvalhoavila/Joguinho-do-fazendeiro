@@ -57,7 +57,7 @@ item 17: Avanço de fase; fase 2 com mais inimigos, cogumelos e milípede maior
 #define COOLDOWN_TIRO 30
 #define VEL_TIRO 4
 
-#define VEL_MILIPEDE 3
+#define VEL_MILIPEDE 6
 #define LARGURA_RABO_MILIPEDE 40
 #define LARGURA_SEGMENTO_MILIPEDE 20
 #define LARGURA_MILIPEDE 60
